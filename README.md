@@ -1,7 +1,7 @@
 # Yve
 
 Yve is a photo-centered social app built to make sharing feel lighter, faster, and more true to yourself.  
-This is the first product that I, a 16-year-old high school student, independently planned, developed, and released on the App Store.
+This is the first product that I, a 17-year-old high school student, independently planned, developed, and released on the App Store.
 
 Yve focuses on helping people share everyday moments with close friends through casual photos and videos.  
 I started building Yve in September 2025 while balancing school and development, and released it on the App Store in January 2026.
