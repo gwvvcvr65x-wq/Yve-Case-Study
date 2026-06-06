@@ -218,6 +218,8 @@ I am currently improving:
 
 <p align="center">
   <img src="screenshots/mainscreen.PNG" width="180" />
+  <img src="screenshots/drawer.PNG" width="180" />
+  <img src="screenshots/background.PNG" width="180" />
 
 </p>
 ---
