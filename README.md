@@ -204,13 +204,32 @@ I am currently improving:
 
 ## Screenshots
 
-Screenshots and demo materials will be added soon.
+<p align="center">
+  <img src="screenshots/onboarding.PNG" width="180" />
+  <img src="screenshots/upload_img.PNG" width="180" />
+  <img src="screenshots/post_full_view.PNG" width="180" />
+</p>
+
+<p align="center">
+  <img src="screenshots/profile_default.PNG" width="180" />
+  <img src="screenshots/calendar_view.PNG" width="180" />
+  <img src="screenshots/group_picker.PNG" width="180" />
+</p>
+
+---
+
+## Demo
+
+- Main Timeline Demo: https://youtube.com/shorts/Foc1qrmr-Z4?si=NOjR580ZN4y7LJoV
+- Camera Upload Demo: https://youtube.com/shorts/N7Tldes7kw8?si=5llrdpWe4_hK-qul
 
 ---
 
 ## Links
 
 - App Store: https://apps.apple.com/us/app/yve/id6758312713
+- Main Timeline Demo: https://youtube.com/shorts/Foc1qrmr-Z4?si=NOjR580ZN4y7LJoV
+- Camera Upload Demo: https://youtube.com/shorts/N7Tldes7kw8?si=5llrdpWe4_hK-qul
 - LinkedIn Post: Coming soon
 
 ---
