@@ -202,6 +202,23 @@ I am currently improving:
 
 ---
 
+## Product Evolution
+
+Yve went through several product and design iterations before becoming the current version.
+
+The early version of Yve started with a simpler interaction idea: helping users view friends’ moments quickly and lightly.  
+As I continued building, testing, and observing the product, I redesigned the experience toward a more timeline-style social feed.
+
+This process helped me learn that building a product is not only about adding features, but also about continuously refining the core experience.
+
+<p align="center">
+  <img src="screenshots/early-yve-01.png" width="180" />
+  <img src="screenshots/early-yve-02.png" width="180" />
+  <img src="screenshots/early-yve-03.png" width="180" />
+</p>
+
+---
+
 ## Screenshots
 
 <p align="center">
@@ -220,8 +237,8 @@ I am currently improving:
   <img src="screenshots/mainscreen.PNG" width="180" />
   <img src="screenshots/drawer.PNG" width="180" />
   <img src="screenshots/background.PNG" width="180" />
-
 </p>
+
 ---
 
 ## Demo
