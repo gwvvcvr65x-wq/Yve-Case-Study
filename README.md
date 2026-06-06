@@ -212,9 +212,13 @@ As I continued building, testing, and observing the product, I redesigned the ex
 This process helped me learn that building a product is not only about adding features, but also about continuously refining the core experience.
 
 <p align="center">
+
   <img src="screenshots/early-yve-01.png" width="180" />
-  <img src="screenshots/early-yve-02.png" width="180" />
-  <img src="screenshots/early-yve-03.png" width="180" />
+
+  <img src="screenshots/early-yve-02.PNG" width="180" />
+
+  <img src="screenshots/early-yve-03.PNG" width="180" />
+
 </p>
 
 ---
