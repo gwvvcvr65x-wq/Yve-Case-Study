@@ -216,6 +216,10 @@ I am currently improving:
   <img src="screenshots/group_picker.PNG" width="180" />
 </p>
 
+<p align="center">
+  <img src="screenshots/mainscreen.PNG" width="180" />
+
+</p>
 ---
 
 ## Demo
