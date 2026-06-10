@@ -247,7 +247,7 @@ Yve has started receiving early feedback from App Store users.
 One user described Yve as a “next generation SNS” and highlighted the app as sleek, innovative, and highly addictive.
 
 <p align="center">
-  <img src="screenshots/app-review-next-gen.jpg" width="520" />
+  <img src="screenshots/app-review.jpg" width="520" />
 </p>
 
 ---
