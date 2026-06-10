@@ -212,13 +212,9 @@ As I continued building, testing, and observing the product, I redesigned the ex
 This process helped me learn that building a product is not only about adding features, but also about continuously refining the core experience.
 
 <p align="center">
-
   <img src="screenshots/early-yve-01.png" width="180" />
-
   <img src="screenshots/early-yve-02.PNG" width="180" />
-
   <img src="screenshots/early-yve-03.PNG" width="180" />
-
 </p>
 
 ---
@@ -245,6 +241,17 @@ This process helped me learn that building a product is not only about adding fe
 
 ---
 
+## User Feedback
+
+Yve has started receiving early feedback from App Store users.  
+One user described Yve as a “next generation SNS” and highlighted the app as sleek, innovative, and highly addictive.
+
+<p align="center">
+  <img src="screenshots/app-review-next-gen.jpg" width="520" />
+</p>
+
+---
+
 ## Demo
 
 - Main Timeline Demo: https://youtube.com/shorts/Foc1qrmr-Z4?si=NOjR580ZN4y7LJoV
@@ -255,9 +262,9 @@ This process helped me learn that building a product is not only about adding fe
 ## Links
 
 - App Store: https://apps.apple.com/us/app/yve/id6758312713
+- Instagram: https://www.instagram.com/seongbin.dev?igsh=OGwwbjBoODZnZThs&utm_source=qr
 - Main Timeline Demo: https://youtube.com/shorts/Foc1qrmr-Z4?si=NOjR580ZN4y7LJoV
 - Camera Upload Demo: https://youtube.com/shorts/N7Tldes7kw8?si=5llrdpWe4_hK-qul
-- LinkedIn Post: Coming soon
 
 ---
 
